@@ -150,3 +150,4 @@ while running:
     show_score(textx, texty)
     # always update screen to view effects
     pygame.display.update()
+# test
